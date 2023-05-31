@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://img.freepik.com/free-vector/abstract-blue-geometric-shapes-background_1035-17545.jpg?w=2000");
+}
+
+h1 {
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+h1:hover {
+    background-color: blue;
+    padding: 5px;
+    font-size: 50px;
+    font-family: fantasy;
+}
